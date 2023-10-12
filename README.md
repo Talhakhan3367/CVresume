@@ -1,2 +1,1 @@
-# CVresume
-MY RESUME FOR MOB AND WEB DEVELOP
+D:\class00\TALHACvResumee.html
